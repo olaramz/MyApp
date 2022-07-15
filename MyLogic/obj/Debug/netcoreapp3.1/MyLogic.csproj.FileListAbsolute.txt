@@ -1,0 +1,13 @@
+C:\Users\TOSHIBA\source\repos\MyApp.logic\MyLogic\bin\Debug\netcoreapp3.1\MyLogic.deps.json
+C:\Users\TOSHIBA\source\repos\MyApp.logic\MyLogic\bin\Debug\netcoreapp3.1\MyLogic.dll
+C:\Users\TOSHIBA\source\repos\MyApp.logic\MyLogic\bin\Debug\netcoreapp3.1\MyLogic.pdb
+C:\Users\TOSHIBA\source\repos\MyApp.logic\MyLogic\bin\Debug\netcoreapp3.1\MyModel.dll
+C:\Users\TOSHIBA\source\repos\MyApp.logic\MyLogic\bin\Debug\netcoreapp3.1\MyModel.pdb
+C:\Users\TOSHIBA\source\repos\MyApp.logic\MyLogic\obj\Debug\netcoreapp3.1\MyLogic.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\MyApp.logic\MyLogic\obj\Debug\netcoreapp3.1\MyLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\MyApp.logic\MyLogic\obj\Debug\netcoreapp3.1\MyLogic.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\MyApp.logic\MyLogic\obj\Debug\netcoreapp3.1\MyLogic.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\MyApp.logic\MyLogic\obj\Debug\netcoreapp3.1\MyLogic.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\MyApp.logic\MyLogic\obj\Debug\netcoreapp3.1\MyLogic.csproj.CopyComplete
+C:\Users\TOSHIBA\source\repos\MyApp.logic\MyLogic\obj\Debug\netcoreapp3.1\MyLogic.dll
+C:\Users\TOSHIBA\source\repos\MyApp.logic\MyLogic\obj\Debug\netcoreapp3.1\MyLogic.pdb

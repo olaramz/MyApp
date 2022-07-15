@@ -1,0 +1,10 @@
+C:\Users\TOSHIBA\source\repos\MyApp.logic\MyModel\bin\Debug\netcoreapp3.1\MyModel.deps.json
+C:\Users\TOSHIBA\source\repos\MyApp.logic\MyModel\bin\Debug\netcoreapp3.1\MyModel.dll
+C:\Users\TOSHIBA\source\repos\MyApp.logic\MyModel\bin\Debug\netcoreapp3.1\MyModel.pdb
+C:\Users\TOSHIBA\source\repos\MyApp.logic\MyModel\obj\Debug\netcoreapp3.1\MyModel.csproj.AssemblyReference.cache
+C:\Users\TOSHIBA\source\repos\MyApp.logic\MyModel\obj\Debug\netcoreapp3.1\MyModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TOSHIBA\source\repos\MyApp.logic\MyModel\obj\Debug\netcoreapp3.1\MyModel.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\source\repos\MyApp.logic\MyModel\obj\Debug\netcoreapp3.1\MyModel.AssemblyInfo.cs
+C:\Users\TOSHIBA\source\repos\MyApp.logic\MyModel\obj\Debug\netcoreapp3.1\MyModel.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\source\repos\MyApp.logic\MyModel\obj\Debug\netcoreapp3.1\MyModel.dll
+C:\Users\TOSHIBA\source\repos\MyApp.logic\MyModel\obj\Debug\netcoreapp3.1\MyModel.pdb
